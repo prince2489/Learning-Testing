@@ -1,0 +1,1 @@
+{ "name": "Consolidated Json to keep environment variables for ASP Identity DB", "EnvironmentSpecific": { "dev": [ { "DC": "dc Name", "host": "devhostname", "dbname": "dev_dbname" } ], "qa": [ { "DC": "dc Name", "host": "qa hostname", "dbname": "qa_dbname" } ] }}
